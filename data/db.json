@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "t-shirt",
+      "color": "black",
+      "img": "t-shirt_black.jpg"
+    },
+    {
+      "id": 2,
+      "type": "t-shirt",
+      "color": "pink",
+      "img": "t-shirt_pink.jpg"
+    },
+    {
+      "id": 3,
+      "type": "t-shirt",
+      "color": "green",
+      "img": "t-shirt_green.jpg"
+    },
+    {
+      "id": 4,
+      "type": "t-shirt",
+      "color": "white",
+      "img": "t-shirt_white.jpg"
+    },
+    {
+      "id": 5,
+      "type": "hoodie",
+      "color": "black",
+      "img": "hoodie_black.jpg"
+    },
+    {
+      "id": 6,
+      "type": "hoodie",
+      "color": "yellow",
+      "img": "hoodie_yellow.jpg"
+    },
+    {
+      "id": 7,
+      "type": "hoodie",
+      "color": "beige",
+      "img": "hoodie_beige.jpg"
+    },
+    {
+      "id": 8,
+      "type": "hoodie",
+      "color": "white",
+      "img": "hoodie_white.jpg"
+    },
+    {
+      "id": 9,
+      "type": "pants",
+      "color": "brown",
+      "img": "pants_brown.jpg"
+    },
+    {
+      "id": 10,
+      "type": "pants",
+      "color": "black",
+      "img": "pants_jeans-black.jpg"
+    },
+    {
+      "id": 11,
+      "type": "pants",
+      "color": "black",
+      "img": "pants_classic-black.jpg"
+    },
+    {
+      "id": 12,
+      "type": "pants",
+      "color": "white",
+      "img": "pants_jeans-blue.jpg"
+    },
+    {
+      "id": 13,
+      "type": "jacket",
+      "color": "black",
+      "img": "jacket_black.jpg"
+    },
+    {
+      "id": 14,
+      "type": "jacket",
+      "color": "pink",
+      "img": "jacket_pink.jpg"
+    }
+  ]
+}
